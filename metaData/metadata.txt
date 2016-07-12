@@ -1,0 +1,43 @@
+Rat ID	group	SugarVsControl	NOIC 2min discrimination index
+J401	Group_1_(35F:65G)	Sugar	57.57575758
+J402	Group_2_(65F:35G)	Sugar	
+J403	Group_3_(control)	Control	
+J404	Group_4_(50F:50G)	Sugar	
+J405	Group_2_(65F:35G)	Sugar	27.5862069
+J406	Group_4_(50F:50G)	Sugar	62.06896552
+J407	Group_3_(control)	Control	61.9047619
+J408	Group_1_(35F:65G)	Sugar	45.83333333
+J409	Group_1_(35F:65G)	Sugar	25
+J410	Group_3_(control)	Control	33.33333333
+J411	Group_4_(50F:50G)	Sugar	62.96296296
+J412	Group_2_(65F:35G)	Sugar	33.33333333
+J413	Group_4_(50F:50G)	Sugar	46.875
+J414	Group_1_(35F:65G)	Sugar	0
+J415	Group_2_(65F:35G)	Sugar	6.666666667
+J416	Group_3_(control)	Control	35
+J417	Group_3_(control)	Control	34.61538462
+J418	Group_2_(65F:35G)	Sugar	33.33333333
+J419	Group_1_(35F:65G)	Sugar	
+J420	Group_4_(50F:50G)	Sugar	48
+J421	Group_2_(65F:35G)	Sugar	
+J422	Group_4_(50F:50G)	Sugar	28.57142857
+J423	Group_3_(control)	Control	47.05882353
+J424	Group_1_(35F:65G)	Sugar	47.82608696
+J425	Group_1_(35F:65G)	Sugar	50
+J426	Group_3_(control)	Control	27.02702703
+J427	Group_4_(50F:50G)	Sugar	57.89473684
+J428	Group_2_(65F:35G)	Sugar	8.695652174
+J429	Group_4_(50F:50G)	Sugar	12.5
+J430	Group_1_(35F:65G)	Sugar	16.66666667
+J431	Group_2_(65F:35G)	Sugar	
+J432	Group_3_(control)	Control	38.0952381
+J433	Group_3_(control)	Control	
+J434	Group_2_(65F:35G)	Sugar	42.10526316
+J435	Group_1_(35F:65G)	Sugar	46.15384615
+J436	Group_4_(50F:50G)	Sugar	40
+J437	Group_4_(50F:50G)	Sugar	45
+J438	Group_2_(65F:35G)	Sugar	25.92592593
+J439	Group_1_(35F:65G)	Sugar	32.43243243
+J440	Group_3_(control)	Control	38.0952381
+J441	Group_1_(35F:65G)	Sugar	
+J442	Group_2_(65F:35G)	Sugar	
