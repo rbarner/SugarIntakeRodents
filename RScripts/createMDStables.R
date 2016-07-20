@@ -1,6 +1,7 @@
 rm(list=ls())
 library("vegan")
 
+################# RDP tables ##################################
 taxaLevels <- c("phylum","class","order","family","genus")
 for(taxa in taxaLevels )
 {
@@ -21,7 +22,7 @@ for(taxa in taxaLevels )
 }
 ######################################## QIIME tables #################################
 
-taxaLevels <- c("phylum","class","order","family","genus","species","otuNoTaxonomy")
+taxaLevels <- c("phylum","class","order","family","genus","otuNoTaxonomy")
 for(taxa in taxaLevels )
 {
   setwd("C:/Users/Roshonda/Dropbox/FodorLab/GoranData/paper/data/")
